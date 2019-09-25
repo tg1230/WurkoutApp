@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_first_layout"
+            android:icon="@drawable/ic_fitness_black"
+            android:title="@string/Wurkout" />
+        <item
+            android:id="@+id/nav_second_layout"
+            android:icon="@drawable/ic_child_care_black_24dp"
+            android:title="@string/RepMax" />
+        <item
+            android:id="@+id/nav_third_layout"
+            android:icon="@drawable/ic_line_black_24dp"
+            android:title="@string/progressChart" />
+        <item
+            android:id="@+id/nav_fourth_layout"
+            android:icon="@drawable/ic_collections_black_24dp"
+            android:title="@string/progressPics" />
+    </group>
+
+</menu>

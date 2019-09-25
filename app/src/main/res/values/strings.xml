@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Wurkout</string>
+    <string name="RepMax">Percentages</string>
+    <string name="Wurkout">Wurkouts</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="textView1">Line 1</string>
+    <string name="textView2">Line 2</string>
+    <string name="add_list_item">add_list_item</string>
+    <string name="maxreps">Max Reps</string>
+    <string name="maxweight">Max Weight</string>
+
+    <string name="imageDescription">Image Description</string>
+
+    <string name="workoutDescription">Workout Description</string>
+
+    <string name="chartMonth">Month</string>
+    <string name="chartDay">Day</string>
+    <string name="chartWeight">Weight</string>
+    <string name="chartDate">Date</string>
+    <string name="chartDescription">Chart Description</string>
+
+
+    <string name="progressPics">Pictures</string>
+    <string name="progressChart">Charts</string>
+
+
+    <string name="rep_text_1">%</string>
+    <string name="rep_text_2">RM</string>
+    <string name="work_text_1">Day 1</string>
+    <string name="work_text_2">Day 2</string>
+    <string name="work_text_3">Day 3</string>
+    <string name="work_text_4">Day 4</string>
+    <string name="work_text_5">Day 5</string>
+    <string name="work_text_6">Day 6</string>
+    <string name="work_text_7">Day 7</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+
+</resources>
